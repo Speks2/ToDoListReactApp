@@ -13,7 +13,9 @@ function Body() {
             <p>Fix npm errors</p>
             <p>Lav footer</p>
             </div>   
-            
+            <script>
+                
+            </script>
         </div>
       </>
     )
