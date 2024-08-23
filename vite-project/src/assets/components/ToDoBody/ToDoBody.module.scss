@@ -5,4 +5,37 @@
 body {
     background: linear-gradient(to right, #5A95B6, #1E1E1E);
     font-family: "Inter";
+
+    div {
+        background: #EFD67F;
+        width: 1170px;
+        height: 100%;
+
+        img {
+        height: 6vh;
+        width: 14vw;
+        margin-left: 23rem;
+        margin-top: 1.5rem;
+        position: absolute;
+
+        &:hover {
+           filter: brightness(100);
+            cursor: pointer;
+        }
+        }
+        h1 {
+            font-family: "Indie Flower";
+            position: static;
+            font-size: 4rem;
+            text-decoration: underline;
+            margin-left: 8rem;
+
+        }
+        p {
+            text-decoration: underline;
+            margin-left: 2rem;
+        }
+    }
+    
+
 }

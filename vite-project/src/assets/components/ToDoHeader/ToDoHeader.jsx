@@ -5,10 +5,7 @@ function Header() {
 
     return (
       <>
-        <header className={style.ToDoHeader}>
-            <h1>To Do</h1>
-        </header>
-  
+
       </>
     )
   }
